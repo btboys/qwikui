@@ -23,8 +23,8 @@ devDependencies:
     specifier: latest
     version: 1.0.0(eslint@8.39.0)
   np:
-    specifier: 7.6.1
-    version: 7.6.1
+    specifier: 7.7.0
+    version: 7.7.0
   prettier:
     specifier: 2.8.8
     version: 2.8.8
@@ -2920,18 +2920,18 @@ packages:
     dev: true
 
   /normalize-url@4.5.1:
-    resolution: {integrity: sha512-9UZCFRHQdNrfTpGg8+1INIg93B6zE0aXMVFkw1WFwvO4SlZywU6aLg5Of0Ap/PgcbSw4LNxvMWXMeugwMCX0AA==}
-    engines: {node: '>=8'}
+    resolution: { integrity: sha512-9UZCFRHQdNrfTpGg8+1INIg93B6zE0aXMVFkw1WFwvO4SlZywU6aLg5Of0Ap/PgcbSw4LNxvMWXMeugwMCX0AA== }
+    engines: { node: '>=8' }
     dev: true
 
   /normalize-url@6.1.0:
-    resolution: {integrity: sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A==}
-    engines: {node: '>=10'}
+    resolution: { integrity: sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A== }
+    engines: { node: '>=10' }
     dev: true
 
-  /np@7.6.1:
-    resolution: {integrity: sha512-EHr5PtMPzNmkM/trnWQWTKAogJnVP1RzTFfIyvPK2COvLN6Vqut4gFXuWNng15xuqnTgmUPzKYbpQAZsYR+Dkw==}
-    engines: {git: '>=2.11.0', node: '>=10', npm: '>=6.8.0', yarn: '>=1.7.0'}
+  /np@7.7.0:
+    resolution: { integrity: sha512-G4HfO6JUl7iKOX1qfYHM/kG5ApqqZ4ma8YjtVAJoyS5VdKkGE/OdSG3cOE9Lwr71klNz9n6KIZmPRnh0L7qM1Q== }
+    engines: { git: '>=2.11.0', node: '>=10', npm: '>=6.8.0', yarn: '>=1.7.0' }
     hasBin: true
     dependencies:
       '@samverschueren/stream-to-observable': 0.3.1(rxjs@6.6.7)
